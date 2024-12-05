@@ -46,7 +46,6 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="GNTV" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",中国环球电视
 https://pi.0472.org/tv/fct.php?auth=230918
@@ -58,8 +57,6 @@ http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门2" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",澳门2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="阳光卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",阳光卫视
-https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1 tvg-name="香港卫视HKS" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港卫视
@@ -86,3 +83,6 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153505
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",民视台湾
 http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",东森新闻
+#EXTINF:-1 tvg-name="阳光卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
