@@ -68,7 +68,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1 tvg-name="澳门2" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",澳门2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-#EXTINF:-1 tvg-name="fashion tv" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="国际台",Fashion Tv
+#EXTINF:-1 tvg-name="fashion tv" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",Fashion Tv
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="GNTV" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="国际台",中国环球电视
+#EXTINF:-1 tvg-name="GNTV" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",中国环球电视
 https://pi.0472.org/tv/fct.php?auth=230918
