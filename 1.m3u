@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml.gz"
+#EXTINF:-1 group-title="更新时间",20241121 09:15:27
+https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
+#EXTINF:-1 group-title="更新时间",关于本源
+https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
+#EXTINF:-1 group-title="更新时间",每日一首
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042013&response=res&format=mp4&type=convert_url
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
