@@ -55,7 +55,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cccf55128bf742ce457acad1-157172349983557&wsIPSercert=3dab7a51fc14b26ed94d5777cdd9484a&wsMonitor=0
 #EXTINF:-1 tvg-name="環球电视台 香港" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",環球电视台 香港
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-name="香港-環球电视台" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港-環球电视台
+#EXTINF:-1 tvg-name="中国環球电视台" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",中国環球电视台
 https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 #EXTINF:-1 tvg-name="Bread TV面包台" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",Bread TV面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
