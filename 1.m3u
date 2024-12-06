@@ -70,5 +70,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:-1 tvg-name="fashion tv" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",Fashion Tv
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="GNTV" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",中国环球电视
+#EXTINF:-1 tvg-name="Boxing TV 拳击" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",Boxing TV 拳击
 https://pi.0472.org/tv/fct.php?auth=230918
+#EXTINF:-1 tvg-name="GNTV" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",中国环球电视
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
