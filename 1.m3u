@@ -74,3 +74,7 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 https://pi.0472.org/tv/fct.php?auth=230918
 #EXTINF:-1 tvg-name="Boxing TV 拳击" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",Boxing TV 拳击
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",四海钓鱼
+https://api.livednow.org/migu/895358641?sign=gAAAAABnJcJq7NZntg3iYconeMQ3mo6Ztn4xsXYNnm5eTqhb3YA4u6WNy5ftjGLhJkGDPTb7JwpPZMbdWYrYxdYXQFZ7mSpReg-VXGuIA3CELLLGnkkdRec6cKXr1cu70bE-YPclPf2qSbNU32auckK86fI56KI0_SH01-gSCK-cqAgTraQDYEVFUutpeRJlg53KqUem6Xou0KcAgppUGPykzhoGfiAtRQ%3D%3D
+#EXTINF:-1 tvg-name="迈阿密风景" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",迈阿密风景
+https://vd3.bdstatic.com/mda-kaumxbnnkfz5sk37/hd/mda-kaumxbnnkfz5sk37.mp4
