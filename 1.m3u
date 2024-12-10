@@ -67,6 +67,9 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="港澳台",DaAi 2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
+#EXTINF:-1 group-title="小品",经典小品
+http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+
 #EXTINF:-1 tvg-name="fashion tv"  group-title="其他",Fashion Tv
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="中国环球电视"  group-title="其他",中国环球电视
