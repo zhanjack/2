@@ -32,33 +32,33 @@ http://222.142.70.7:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.142.70.7:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-#EXTINF:-1 tvg-name="凤凰卫士" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",凤凰卫视
+#EXTINF:-1 tvg-name="凤凰卫士"  group-title="港澳台",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯"  group-title="港澳台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-name="香港卫视HKS" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港卫视HKS
+#EXTINF:-1 tvg-name="香港卫视HKS"  group-title="港澳台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-name="環球电视台 香港" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",環球电视台 香港
+#EXTINF:-1 tvg-name="環球电视台 香港"  group-title="港澳台",環球电视台 香港
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",TVBS
+#EXTINF:-1 tvg-name="TVBS"  group-title="港澳台",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="Bread TV面包台" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",Bread TV面包台
+#EXTINF:-1 tvg-name="Bread TV面包台"  group-title="港澳台",Bread TV面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",耀才财经
+#EXTINF:-1 tvg-name="耀才财经"  group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-name="STAR TV SD" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",STAR TV SD
+#EXTINF:-1 tvg-name="STAR TV SD"  group-title="港澳台",STAR TV SD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-name="翡翠台"  group-title="港澳台",翡翠台
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153505
-#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",民视台湾
+#EXTINF:-1 tvg-name="民视台湾"  group-title="港澳台",民视台湾
 http://37.27.111.214:8080/live/5/hls.m3u8
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",东森新闻
-#EXTINF:-1 tvg-name="阳光卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",阳光卫视
+#EXTINF:-1 tvg-name="东森新闻"  group-title="港澳台",东森新闻
+#EXTINF:-1 tvg-name="阳光卫视"  group-title="港澳台",阳光卫视
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1 tvg-name="奥视澳门" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",奥视澳门
+#EXTINF:-1 tvg-name="奥视澳门"  group-title="港澳台",奥视澳门
 http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-#EXTINF:-1 tvg-name="台湾Plus" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",台湾Plus
+#EXTINF:-1 tvg-name="台湾Plus"  group-title="港澳台",台湾Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
@@ -67,15 +67,15 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="港澳台",DaAi 2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-#EXTINF:-1 tvg-name="fashion tv" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",Fashion Tv
+#EXTINF:-1 tvg-name="fashion tv"  group-title="其他",Fashion Tv
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="中国环球电视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",中国环球电视
+#EXTINF:-1 tvg-name="中国环球电视"  group-title="其他",中国环球电视
 https://pi.0472.org/tv/fct.php?auth=230918
-#EXTINF:-1 tvg-name="Boxing TV 拳击" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",Boxing TV 拳击
+#EXTINF:-1 tvg-name="Boxing TV 拳击"  group-title="其他",Boxing TV 拳击
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",四海钓鱼
+#EXTINF:-1 tvg-name="四海钓鱼"  group-title="其他",四海钓鱼
 https://api.livednow.org/migu/895358641?sign=gAAAAABnJcJq7NZntg3iYconeMQ3mo6Ztn4xsXYNnm5eTqhb3YA4u6WNy5ftjGLhJkGDPTb7JwpPZMbdWYrYxdYXQFZ7mSpReg-VXGuIA3CELLLGnkkdRec6cKXr1cu70bE-YPclPf2qSbNU32auckK86fI56KI0_SH01-gSCK-cqAgTraQDYEVFUutpeRJlg53KqUem6Xou0KcAgppUGPykzhoGfiAtRQ%3D%3D
-#EXTINF:-1 tvg-name="迈阿密风景" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="其他",迈阿密风景
+#EXTINF:-1 tvg-name="迈阿密风景"  group-title="其他",迈阿密风景
 https://vd3.bdstatic.com/mda-kaumxbnnkfz5sk37/hd/mda-kaumxbnnkfz5sk37.mp4
 
 #EXTINF:-1 group-title="其他",Global Fashion Channel 
