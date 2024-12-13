@@ -1,6 +1,6 @@
 Kstore
 
-央视嘉兴频道,#genre#
+央视频道,#genre#
 
 CCTV-01嘉兴,http://27.41.246.255:9003//hls/4/index.m3u8
 CCTV-02嘉兴,http://27.41.246.255:9003//hls/5/index.m3u8
@@ -19,7 +19,7 @@ CCTV-14嘉兴,http://27.41.246.255:9003//hls/17/index.m3u8
 CCTV-15嘉兴,http://27.41.246.255:9003//hls/18/index.m3u8
 CCTV-17嘉兴,http://27.41.246.255:9003//hls/19/index.m3u8
 
-港澳视频道嘉兴_520,[V4],#genre#
+港澳视频道,[V4],#genre#
 
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -62,7 +62,7 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 莲花卫视,http://php.jdshipin.com:8880/amlh.php
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 
-湾湾频道嘉兴_520,[V4],#genre#
+湾湾频道,[V4],#genre#
 
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
@@ -142,7 +142,7 @@ GLO-Bet,http://litv.zapi.us.kg/?id=4gtv-4gtv016
 Ginx_TV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 Astv亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 
-韩国频道嘉兴_520,#genre#
+韩国频道,#genre#
 
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
@@ -299,7 +299,7 @@ EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunk
 jtbc2http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
 K STARhttp://121.136.153.200:9981/stream/channelid/41
 
-日本频道嘉兴_520,#genre#
+日本频道,#genre#
 
 nhkworld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 nhkworld,https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
@@ -518,7 +518,7 @@ BSTV,https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w785516268.m3u8
 TBS,https://tbs2.mov3.co/hls/tbs.m3u8
 QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
-美国嘉兴_520,#genre#
+美国,#genre#
 
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
 NASAhttps://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
@@ -763,7 +763,7 @@ Canela Clasicos,https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 电影5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 动漫,https://stream.ads.ottera.tv/playlist.m3u8?network_id=634
 
-英国嘉兴_520,#genre#
+英国,#genre#
 
 BBC Entertainment [UK],http://51.38.80.53:9981/stream/channelid/1802592088?profile=pass
 BBC Four [UK],http://51.38.80.53:9981/stream/channelid/1238276989?profile=pass
@@ -1298,7 +1298,7 @@ FX,http://170.254.18.106/FX/index.m3u8
 TNT,http://170.254.18.106/TNT/index.m3u8
 HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 
-俄罗斯嘉兴_520,#genre#
+俄罗斯,#genre#
 
 IZTVhttp://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 IZTV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -1891,7 +1891,7 @@ s15,http://ott-cdn.ucom.am/s15/index.m3u8
 Eye Cyber HD,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/20220/index.m3u8
 KinoJam 1,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/7260/index.m3u8
 
-乌克兰嘉兴_520,#genre#
+乌克兰,#genre#
 
 1+1 HD,http://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/124/stream.m3u8
 1+1 HDhttps://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/124/stream.m3u8
@@ -2438,7 +2438,7 @@ TPK,http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 Фан Спорт,https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 ZTV (Запорожье),http://stream.ztv.zp.ua/hls/live.m3u8
 
-印度嘉兴_520,#genre#
+印度,#genre#
 
 ZEE NEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 Rotana Aflam,http://51.38.80.53:9981/stream/channelid/1993330126?profile=pass
@@ -2573,7 +2573,7 @@ sbc,https://cllive.itworkscdn.net/sbclive/token=nva=1674334306~dirs=1~hash=0d2a6
 dmc,https://iptv.ipslow.com/tv182_www.elahmad.com_dmc/tracks-v1a1/mono.m3u8?token=e37998d8dee0ec179fb91c5ec322d1e45b9b4ae8-5a3189e566c112e7a266a9b915d65341-1674331016-1674320216
 dubai,http://www.elahmad.com/tv/m3u8/dubai_tv.m3u8?id=dubai_tv
 
-越南嘉兴_520,#genre#
+越南,#genre#
 
 BTV,http://118.107.85.4:1935/live/smil:BTV.smil/playlist.m3u8
 Kien Giang TV,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -2684,7 +2684,7 @@ Thairath TV,http://183.89.246.119:8010/play/a00i/index.m3u8
 True4U,http://183.89.246.119:8010/play/a00d/index.m3u8
 Workpoint TV,http://183.89.246.119:8010/play/a00c/index.m3u8
 
-泰国嘉兴_520,#genre#
+泰国,#genre#
 
 3HD,https://cdn.paservice.online/ojJu6oeeBnhRvS9C/3hd/mpegts
 Fresh News,http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
@@ -2842,7 +2842,7 @@ PNN,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 TVK,http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 Sea TV,http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
 
-土耳其​嘉兴_520,#genre#
+土耳其​,#genre#
 
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
@@ -2964,14 +2964,14 @@ SHOW TURK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21697
 ATV AVRUPA,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21698
 EURO D,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21699
 
-阿富汗嘉兴_520,#genre#
+阿富汗,#genre#
 
 Afghanistan International,https://hls.afintl.com/hls/stream.m3u8
 rta,https://hls.rta.live/hls/stream.m3u8
 rtasport,https://hls.rtasport.live/hls/stream.m3u8
 SHARQ,https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/chunks.m3u8
 
-法国嘉兴_520,#genre#
+法国,#genre#
 
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
 Fashion tv,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
@@ -3015,7 +3015,7 @@ WSCI HD,http://49.0.64.96:8007/WSCI
 Zoomoo HD,http://49.0.64.96:8007/Zoomoo
 Africa 24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 
-德国嘉兴_520,#genre#
+德国,#genre#
 
 mytvplus,https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 ARD,http://mcdn.daserste.de/daserste/de/master.m3u8
@@ -3023,7 +3023,7 @@ ARD Alpha,https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 BR Nord,https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 BR Süd,https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
-波兰嘉兴_520,#genre#
+波兰,#genre#
 
 TVP,http://78.129.193.20/tsstreamer/TVP_SD.ts
 VOX,http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
@@ -3093,6 +3093,6 @@ TVP3 Warszawa,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwars
 TVP3 Wroclaw,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 Eska TV HD,http://146.59.54.163:80/Eska-TV/mono.m3u8
 
-蒙古嘉兴_520,#genre#
+蒙古,#genre#
 
 MNB WORLD,https://live.mnb.mn/hls/mnb_world.stream.m3u8
