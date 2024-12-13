@@ -2,22 +2,22 @@ Kstore
 
 央视频道,#genre#
 
-CCTV-01嘉兴,http://27.41.246.255:9003//hls/4/index.m3u8
-CCTV-02嘉兴,http://27.41.246.255:9003//hls/5/index.m3u8
-CCTV-03嘉兴,http://27.41.246.255:9003//hls/6/index.m3u8
-CCTV-04嘉兴,http://27.41.246.255:9003//hls/7/index.m3u8
-CCTV-05嘉兴,http://27.41.246.255:9003//hls/8/index.m3u8
-CCTV-06嘉兴,http://27.41.246.255:9003//hls/9/index.m3u8
-CCTV-07嘉兴,http://27.41.246.255:9003//hls/10/index.m3u8
-CCTV-08嘉兴,http://27.41.246.255:9003//hls/11/index.m3u8
-CCTV-09嘉兴,http://27.41.246.255:9003//hls/12/index.m3u8
-CCTV-10嘉兴,http://27.41.246.255:9003//hls/13/index.m3u8
-CCTV-11嘉兴,http://27.41.246.255:9003//hls/14/index.m3u8
-CCTV-12嘉兴,http://27.41.246.255:9003//hls/15/index.m3u8
-CCTV-13嘉兴,http://27.41.246.255:9003//hls/16/index.m3u8
-CCTV-14嘉兴,http://27.41.246.255:9003//hls/17/index.m3u8
-CCTV-15嘉兴,http://27.41.246.255:9003//hls/18/index.m3u8
-CCTV-17嘉兴,http://27.41.246.255:9003//hls/19/index.m3u8
+CCTV-01,http://27.41.246.255:9003//hls/4/index.m3u8
+CCTV-02,http://27.41.246.255:9003//hls/5/index.m3u8
+CCTV-03,http://27.41.246.255:9003//hls/6/index.m3u8
+CCTV-04,http://27.41.246.255:9003//hls/7/index.m3u8
+CCTV-05,http://27.41.246.255:9003//hls/8/index.m3u8
+CCTV-06,http://27.41.246.255:9003//hls/9/index.m3u8
+CCTV-07,http://27.41.246.255:9003//hls/10/index.m3u8
+CCTV-08,http://27.41.246.255:9003//hls/11/index.m3u8
+CCTV-09,http://27.41.246.255:9003//hls/12/index.m3u8
+CCTV-10,http://27.41.246.255:9003//hls/13/index.m3u8
+CCTV-11,http://27.41.246.255:9003//hls/14/index.m3u8
+CCTV-12,http://27.41.246.255:9003//hls/15/index.m3u8
+CCTV-13,http://27.41.246.255:9003//hls/16/index.m3u8
+CCTV-14,http://27.41.246.255:9003//hls/17/index.m3u8
+CCTV-15,http://27.41.246.255:9003//hls/18/index.m3u8
+CCTV-17,http://27.41.246.255:9003//hls/19/index.m3u8
 
 港澳视频道,[V4],#genre#
 
