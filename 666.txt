@@ -202,10 +202,6 @@ CCTV-17,http://123.117.237.15:8680/rtp/239.3.1.151:8144$组播源
 CCTV-17,http://123.113.187.204:8000/rtp/239.3.1.151:8144$组播源
 CCTV-17,http://114.252.235.176:8000/rtp/239.3.1.151:8144$组播源
 
-📺象棋频道,#genre#
-象棋套路,https://2408_8738_4000_4__b00_82.bytefcdnrd.com/huyalive/1199535077034-1199535077034-5322329700905779200-2399070277524-10057-A-0-1.flv?302_type=cold_aggr&a_block=0&ctype=huya_webh5&dMod=mseh-0&domain=txdirect.flv.huya.com&fs=gctex&redirect_from=pod.cn-ps4vjo.bfri.nss&sdkPcdn=1_1&sdk_sid=1734617234984&seqid=1809590450066&sv=2412180820&t=100&u=76235058548&ver=1&wsSecret=1e6f390282bdcd71c2ba6200448dc3e8&wsTime=676429c7
-
-
 港澳视频道,[V4],#genre#
 
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
